@@ -7,9 +7,9 @@ using namespace std;
 
 int main() {
     BST tree;
-    ifstream file("education-economy-data_modified.csv");
+    ifstream file("education-economy-data_modified_P2.csv");
     if (!file.is_open()) {
-        cerr << "Error: Could not open education-economy-data_modified.csv\n";
+        cerr << "Error: Could not open education-economy-data_modified_P2.csv\n";
         return 1;
     }
 
