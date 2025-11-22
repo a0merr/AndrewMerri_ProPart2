@@ -1,3 +1,4 @@
+#pragma once
 #include "Record.h"
 #include <iostream>
 using namespace std;
